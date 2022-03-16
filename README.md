@@ -3,7 +3,7 @@
 
 _weather_ is a weather forecast application for iOS. It allows you to learn weather on your current location and search the weather for cities in Turkey. 
 
-This project is a iOS learning project made in the duration of my internship in [Harpeon](https://harpeon.com/).
+This project is a iOS learning project made in the duration of my internship in Harpeon ([website](https://harpeon.com/) and [github](https://github.com/Harpeon)).
 
 **Some screenshots from the application.**
 
