@@ -15,6 +15,6 @@ This is the MapView, it shows the current location and allows users to click the
 
 <img src="https://user-images.githubusercontent.com/74210334/157862856-4514f780-a802-4f9d-864c-ed3b6de25d07.jpeg" width="246,3" height="533,3" /> <img src="https://user-images.githubusercontent.com/74210334/157862859-1046a605-24ab-413f-a4d2-e349799bdbec.jpeg" width="246,3" height="533,3" /> 
 
-And lastly, there is SearchView. Users can search for cities are listed below, which are cities of Turkey.
+And lastly, there is SearchView. Users can search for cities are listed below, which are cities of Turkey. It allows users to filter results.
 
 <img src="https://user-images.githubusercontent.com/74210334/157862861-1e2179f8-2433-4a46-ad84-261083a14729.jpeg" width="246,3" height="533,3" /> <img src="https://user-images.githubusercontent.com/74210334/157862862-54e69e07-4004-4c9e-bf47-98c2bc4d2e92.jpeg" width="246,3" height="533,3" /> <img src="https://user-images.githubusercontent.com/74210334/157862863-cbb8efc5-718b-4cf4-bc33-a31b59ddc89c.jpeg" width="246,3" height="533,3" />
